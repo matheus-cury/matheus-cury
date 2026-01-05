@@ -39,8 +39,8 @@ Ajudo pequenas e medias empresas a **vender mais** e **trabalhar menos** com tec
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheus-cury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cury&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheus-cury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-cury&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 ---
 
