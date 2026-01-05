@@ -20,7 +20,7 @@ Site para grafica e comunicacao visual em BH.
 [![Repo](https://img.shields.io/badge/GitHub-mvprint--site-181717?logo=github)](https://github.com/matheus-cury/mvprint-site)
 [![Site](https://img.shields.io/badge/Site-mvprint.com.br-blue)](https://mvprint.com.br)
 
-![Preview](https://image.thum.io/get/width/800/https://mvprint.com.br)
+![Preview](https://raw.githubusercontent.com/matheus-cury/mvprint-site/main/public/preview.png)
 
 ## Stack
 
