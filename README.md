@@ -2,21 +2,25 @@
 
 **Desenvolvedor Full Stack | Sites, automacoes e sistemas que fazem PMEs vender mais**
 
-## Sobre
-
-Desenvolvedor em Belo Horizonte/MG focado em solucoes praticas para pequenas e medias empresas. Meu objetivo e ajudar negocios a vender mais e trabalhar menos atraves de tecnologia.
+Desenvolvedor em Belo Horizonte/MG. Ajudo pequenas e medias empresas a vender mais e trabalhar menos com tecnologia.
 
 ## O que eu faco
 
-- **Sites e Landing Pages** - Sites rapidos e otimizados para conversao
-- **Automacoes** - Reducao de trabalho manual e processos repetitivos
-- **Sistemas Web** - Dashboards, gestores e ferramentas sob medida
+| Servico | Descricao |
+|---------|-----------|
+| **Sites e Landing Pages** | Sites rapidos, otimizados para conversao |
+| **Automacoes** | Reducao de trabalho manual e processos repetitivos |
+| **Sistemas Web** | Dashboards, gestores e ferramentas sob medida |
 
-## Nichos de atuacao
+## Projetos
 
-- Clinicas e consultórios de saude
-- Saloes e barbearias
-- E-commerce e lojas virtuais
+### MV Print - Site Institucional
+Site para grafica e comunicacao visual em BH.
+
+[![Repo](https://img.shields.io/badge/GitHub-mvprint--site-181717?logo=github)](https://github.com/matheus-cury/mvprint-site)
+[![Site](https://img.shields.io/badge/Site-mvprint.com.br-blue)](https://mvprint.com.br)
+
+![Preview](https://image.thum.io/get/width/800/https://mvprint.com.br)
 
 ## Stack
 
@@ -25,10 +29,10 @@ Desenvolvedor em Belo Horizonte/MG focado em solucoes praticas para pequenas e m
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ## Contato
 
-- Email: matheuscrvc@gmail.com
-- LinkedIn: [/in/matheus-cury](https://linkedin.com/in/matheus-cury)
-- WhatsApp: (31) 98490-1294
+[![Email](https://img.shields.io/badge/Email-matheuscrvc@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheuscrvc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheus--cury-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-cury)
