@@ -20,7 +20,22 @@ Site para grafica e comunicacao visual em BH.
 [![Repo](https://img.shields.io/badge/GitHub-mvprint--site-181717?logo=github)](https://github.com/matheus-cury/mvprint-site)
 [![Site](https://img.shields.io/badge/Site-mvprint.com.br-blue)](https://mvprint.com.br)
 
+**Resultados:**
+- 3.4k+ visitas/mes do Brasil
+- Score 90+ no PageSpeed
+- Deploy automatico via Cloudflare Pages
+
 ![Preview](https://raw.githubusercontent.com/matheus-cury/mvprint-site/main/public/preview.png)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-cury&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cury&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ## Stack
 
@@ -32,7 +47,9 @@ Site para grafica e comunicacao visual em BH.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-## Contato
+## Vamos trabalhar juntos?
 
-[![Email](https://img.shields.io/badge/Email-matheuscrvc@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheuscrvc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheus--cury-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-cury)
+Tem um projeto em mente? Precisa de um site, automacao ou sistema?
+
+[![Email](https://img.shields.io/badge/Email-matheuscrvc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscrvc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheus--cury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-cury)
